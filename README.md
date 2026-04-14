@@ -81,11 +81,12 @@ You'll get a single short paragraph — max 4 lines — with your dinosaur chara
 
 ## Why I built this
 
-Data storytelling is one of the hardest things to do well. Numbers don't stick — stories do. Data Dino is an experiment in using AI to create *memorable* interpretations of data, not just accurate ones.
+Data storytelling is one of the hardest things to do well. Numbers don't stick — stories do. Data Dino is an experiment in using AI to create memorable interpretations of data, not just accurate ones.
 
-The metaphors are designed to be earned, not bolted on. A **Triceratops** isn't just "stable" — it's stable *under pressure*, horns forward, refusing to fall. A **Velociraptor** isn't just "volatile" — it's fast, unpredictable, and hunting in packs.
+The metaphors are designed to be earned, not bolted on. A **Triceratops** isn't just "stable" — it's stable under pressure, horns forward, refusing to fall. A **Velociraptor** isn't just "volatile" — it's fast, unpredictable, and hunting in packs.
 
-If someone reads your Data Dino output and thinks *"that's actually exactly right"* — that's the goal.
+If someone reads your Data Dino output and thinks "that's actually exactly right" — that's the goal.
+(Honestly? I also just wanted to build a Claude skill. But someone had already built the to-do list app, the invoice generator, and the meeting summariser — so here we are. Turns out the Cretaceous period was available.)
 
 ---
 
