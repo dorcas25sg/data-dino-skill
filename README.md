@@ -90,12 +90,6 @@ If someone reads your Data Dino output and thinks "that's actually exactly right
 
 ---
 
-## Contributing
-
-Found a data pattern that needs a new dinosaur? Open an issue or submit a PR with your proposed addition to the character dictionary. The Mesozoic era is large — there's room for more specimens.
-
----
-
 ## License
 
 MIT — free to use, share, and remix. Just don't cause a **mass extinction event** with it.
